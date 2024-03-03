@@ -1,6 +1,6 @@
 chex
 typing~=3.7.4.3
-jax>=0.4.20
+jax
 jaxlib>=0.4.20
 flax~=0.7.5
 fjformer>=0.0.32
